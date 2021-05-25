@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\bin\Debug\netcoreapp3.1\2_Collection.exe
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\bin\Debug\netcoreapp3.1\2_Collection.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\bin\Debug\netcoreapp3.1\2_Collection.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\bin\Debug\netcoreapp3.1\2_Collection.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\bin\Debug\netcoreapp3.1\2_Collection.dll
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\bin\Debug\netcoreapp3.1\2_Collection.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\obj\Debug\netcoreapp3.1\2_Collection.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\obj\Debug\netcoreapp3.1\2_Collection.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\obj\Debug\netcoreapp3.1\2_Collection.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\obj\Debug\netcoreapp3.1\2_Collection.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\obj\Debug\netcoreapp3.1\2_Collection.dll
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\obj\Debug\netcoreapp3.1\2_Collection.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Collection\obj\Debug\netcoreapp3.1\2_Collection.genruntimeconfig.cache

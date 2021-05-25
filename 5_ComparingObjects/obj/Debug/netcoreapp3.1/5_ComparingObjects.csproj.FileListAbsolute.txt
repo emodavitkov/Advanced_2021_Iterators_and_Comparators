@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\bin\Debug\netcoreapp3.1\5_ComparingObjects.exe
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\bin\Debug\netcoreapp3.1\5_ComparingObjects.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\bin\Debug\netcoreapp3.1\5_ComparingObjects.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\bin\Debug\netcoreapp3.1\5_ComparingObjects.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\bin\Debug\netcoreapp3.1\5_ComparingObjects.dll
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\bin\Debug\netcoreapp3.1\5_ComparingObjects.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\obj\Debug\netcoreapp3.1\5_ComparingObjects.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\obj\Debug\netcoreapp3.1\5_ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\obj\Debug\netcoreapp3.1\5_ComparingObjects.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\obj\Debug\netcoreapp3.1\5_ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\obj\Debug\netcoreapp3.1\5_ComparingObjects.dll
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\obj\Debug\netcoreapp3.1\5_ComparingObjects.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\5_ComparingObjects\obj\Debug\netcoreapp3.1\5_ComparingObjects.genruntimeconfig.cache

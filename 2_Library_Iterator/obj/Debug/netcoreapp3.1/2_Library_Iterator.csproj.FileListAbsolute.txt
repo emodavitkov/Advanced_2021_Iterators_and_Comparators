@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\bin\Debug\netcoreapp3.1\2_Library_Iterator.exe
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\bin\Debug\netcoreapp3.1\2_Library_Iterator.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\bin\Debug\netcoreapp3.1\2_Library_Iterator.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\bin\Debug\netcoreapp3.1\2_Library_Iterator.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\bin\Debug\netcoreapp3.1\2_Library_Iterator.dll
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\bin\Debug\netcoreapp3.1\2_Library_Iterator.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\obj\Debug\netcoreapp3.1\2_Library_Iterator.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\obj\Debug\netcoreapp3.1\2_Library_Iterator.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\obj\Debug\netcoreapp3.1\2_Library_Iterator.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\obj\Debug\netcoreapp3.1\2_Library_Iterator.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\obj\Debug\netcoreapp3.1\2_Library_Iterator.dll
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\obj\Debug\netcoreapp3.1\2_Library_Iterator.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Iterators_and_Comparators\2_Library_Iterator\obj\Debug\netcoreapp3.1\2_Library_Iterator.genruntimeconfig.cache
